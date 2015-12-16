@@ -1,6 +1,8 @@
 ## This pair of functions work together to compute the inverse of a matrix and to store that inverse into a
 ## cache, removing the need to re-compute the inverse if it has already been done before.
 
+# Code is based on the mean example code in the ProgrammingAssigment2 readme.
+
 
 
 ## This function wraps several helper functions into a single list. These helper functions do the underlying
